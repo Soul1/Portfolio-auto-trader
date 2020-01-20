@@ -1,0 +1,11 @@
+.DS_Store
+.AppleDouble
+.LSOverrife
+.vs
+.idea
+
+
+node_modules/
+app/scss/
+app/js/main.js
+
